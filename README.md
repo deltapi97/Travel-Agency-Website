@@ -21,3 +21,7 @@ This project is a comprehensive travel agency localhost website with the followi
   
 # Admin Tool
 - Admin Features: Navigation bar option for admins to add new travel packages to the database. Security checks prevent access by non-admin users.
+
+# Screenshots
+
+![Uploading Στιγμιότυπο οθόνης 2024-05-22 065008.png…]()
