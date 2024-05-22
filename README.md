@@ -1,4 +1,4 @@
-   #                       Travel Agency Website Project
+<h1 align="center">Travel Agency Website Project</h1>
 This project is a comprehensive travel agency localhost website with the following features:
 
 # Home Page
