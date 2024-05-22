@@ -24,4 +24,10 @@ This project is a comprehensive travel agency localhost website with the followi
 
 # Screenshots
 
-![Uploading Στιγμιότυπο οθόνης 2024-05-22 065008.png…]()
+![Στιγμιότυπο οθόνης 2024-05-22 065008](https://github.com/deltapi97/Travel-Agency-Website/assets/94329053/e5ef3cf9-7dc0-480a-919b-5f40395447cb)
+
+![Στιγμιότυπο οθόνης 2024-05-22 065019](https://github.com/deltapi97/Travel-Agency-Website/assets/94329053/8cafd185-8aea-4db3-a511-e3bd04ef2555)
+
+![Στιγμιότυπο οθόνης 2024-05-22 065039](https://github.com/deltapi97/Travel-Agency-Website/assets/94329053/0f671a7f-b568-4a6b-a101-86819581292e)
+
+![Στιγμιότυπο οθόνης 2024-05-22 065117](https://github.com/deltapi97/Travel-Agency-Website/assets/94329053/07d14cb1-b6a2-4fa5-ae1b-a7c49b2fdc58)
